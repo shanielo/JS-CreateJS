@@ -1,7 +1,7 @@
 {
   "name": "js-createjs",
   "version": "1.0.0",
-  "description": "Build a Rock Climbing Company Landing Page with HTML & CSS - https://pluralsight.com",
+  "description": "Build a Game with CreateJS - https://pluralsight.com",
   "scripts": {
     "start": "lite-server",
     "test": "cross-env NODE_ENV=test mocha './test/*.test.js' || true",
